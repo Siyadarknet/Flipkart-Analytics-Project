@@ -1,0 +1,545 @@
+Category,Brand_Normalized,Product_Count,Total_Price,Total_Original_Price,Total_Discount,Average_Price,Average_Discount
+mens_westernwear,3mads,1,97.0,799.0,702.0,97.0,87.0
+mens_westernwear,a-okay,1,498.0,1875.0,1377.0,498.0,73.0
+mens_westernwear,aantic,1,169.0,399.0,230.0,169.0,57.0
+mens_westernwear,ad & av,2,1218.0,3598.0,2380.0,609.0,65.0
+mens_westernwear,adidas,23,5312.0,11757.0,6445.0,230.96,56.13
+mens_westernwear,aelomart,10,4348.0,14990.0,10642.0,434.8,70.7
+mens_westernwear,alexa india,1,120.0,349.0,229.0,120.0,65.0
+mens_westernwear,allen solly,1,629.0,899.0,270.0,629.0,30.0
+mens_westernwear,amextrian,1,395.0,1999.0,1604.0,395.0,80.0
+mens_westernwear,amul macho,1,508.0,508.0,0.0,508.0,0.0
+mens_westernwear,appalon,1,223.0,599.0,376.0,223.0,62.0
+mens_westernwear,ar sales,1,190.0,784.0,594.0,190.0,75.0
+mens_westernwear,arkyle,1,299.0,599.0,300.0,299.0,50.0
+mens_westernwear,ashirwad,1,259.0,599.0,340.0,259.0,56.0
+mens_westernwear,asian & fitch,1,474.0,1287.0,813.0,474.0,63.0
+mens_westernwear,ausk,4,1476.0,3996.0,2520.0,369.0,62.5
+mens_westernwear,autokraftz,1,385.0,999.0,614.0,385.0,61.0
+mens_westernwear,base 41,2,988.0,2698.0,1710.0,494.0,61.5
+mens_westernwear,beardland,1,115.0,499.0,384.0,115.0,76.0
+mens_westernwear,being urban,1,719.0,1999.0,1280.0,719.0,64.0
+mens_westernwear,bfb,1,267.0,999.0,732.0,267.0,73.0
+mens_westernwear,billion,2,953.0,1998.0,1045.0,476.5,52.5
+mens_westernwear,bis creations,1,389.0,799.0,410.0,389.0,51.0
+mens_westernwear,bks,1,425.0,599.0,174.0,425.0,29.0
+mens_westernwear,black collection,7,3888.0,8293.0,4405.0,555.43,51.86
+mens_westernwear,bnb,2,430.0,1086.0,656.0,215.0,59.5
+mens_westernwear,bsquare,1,199.0,399.0,200.0,199.0,50.0
+mens_westernwear,bumchums,1,799.0,849.0,50.0,799.0,5.0
+mens_westernwear,calvador,1,275.0,499.0,224.0,275.0,44.0
+mens_westernwear,campus sutra,2,1565.0,2748.0,1183.0,782.5,43.0
+mens_westernwear,checkersbay,5,4823.0,13500.0,8677.0,964.6,63.8
+mens_westernwear,chrome & coral,1,570.0,1425.0,855.0,570.0,60.0
+mens_westernwear,classic,1,199.0,226.0,27.0,199.0,11.0
+mens_westernwear,classio,2,1176.0,2598.0,1422.0,588.0,54.0
+mens_westernwear,classio fashion,1,934.0,2199.0,1265.0,934.0,57.0
+mens_westernwear,cobio man,4,1433.0,4496.0,3063.0,358.25,68.25
+mens_westernwear,cotson,1,299.0,899.0,600.0,299.0,66.0
+mens_westernwear,dagcros,3,1089.0,4497.0,3408.0,363.0,75.0
+mens_westernwear,dcmr,1,175.0,180.0,5.0,175.0,2.0
+mens_westernwear,deelmo,2,1291.0,2998.0,1707.0,645.5,56.5
+mens_westernwear,dennis lingo,7,4443.0,15343.0,10900.0,634.71,70.71
+mens_westernwear,dillinger,2,648.0,1798.0,1150.0,324.0,63.5
+mens_westernwear,diwazzo,5,1450.0,4995.0,3545.0,290.0,70.6
+mens_westernwear,duke,6,4670.0,5340.0,670.0,778.33,12.5
+mens_westernwear,ebiz,1,255.0,500.0,245.0,255.0,49.0
+mens_westernwear,elepants,1,495.0,1795.0,1300.0,495.0,72.0
+mens_westernwear,epg,1,499.0,1299.0,800.0,499.0,61.0
+mens_westernwear,euro,1,315.0,315.0,0.0,315.0,0.0
+mens_westernwear,fabtag - being fab,2,1120.0,2780.0,1660.0,560.0,59.0
+mens_westernwear,fabtag - deeksha,1,399.0,999.0,600.0,399.0,60.0
+mens_westernwear,fastcolors,33,15177.0,71367.0,56190.0,459.91,78.67
+mens_westernwear,fenoix,2,530.0,1998.0,1468.0,265.0,73.0
+mens_westernwear,flying machine,2,2298.0,4398.0,2100.0,1149.0,47.0
+mens_westernwear,fubar,1,594.0,1499.0,905.0,594.0,60.0
+mens_westernwear,gespo,2,793.0,1898.0,1105.0,396.5,57.5
+mens_westernwear,ghpc,7,2366.0,6993.0,4627.0,338.0,65.43
+mens_westernwear,glinto,3,897.0,2097.0,1200.0,299.0,57.0
+mens_westernwear,good friends,1,175.0,180.0,5.0,175.0,2.0
+mens_westernwear,gritstones,5,1730.0,4245.0,2515.0,346.0,58.8
+mens_westernwear,handgrip,1,349.0,999.0,650.0,349.0,65.0
+mens_westernwear,hap,1,313.0,849.0,536.0,313.0,63.0
+mens_westernwear,hero & piyush,2,416.0,1458.0,1042.0,208.0,66.5
+mens_westernwear,hicode,7,1563.0,4491.0,2928.0,223.29,63.0
+mens_westernwear,highlander,31,19692.0,41769.0,22077.0,635.23,52.32
+mens_westernwear,highlands,2,769.0,998.0,229.0,384.5,22.5
+mens_westernwear,hind home,1,255.0,799.0,544.0,255.0,68.0
+mens_westernwear,hotfits,2,598.0,998.0,400.0,299.0,40.0
+mens_westernwear,house of sensation,1,599.0,1199.0,600.0,599.0,50.0
+mens_westernwear,huntsman era,1,299.0,599.0,300.0,299.0,50.0
+mens_westernwear,indoprimo,3,1928.0,3997.0,2069.0,642.67,46.0
+mens_westernwear,inkovy,1,259.0,999.0,740.0,259.0,74.0
+mens_westernwear,ishu,1,309.0,999.0,690.0,309.0,69.0
+mens_westernwear,jai textiles,1,398.0,1499.0,1101.0,398.0,73.0
+mens_westernwear,jockey,27,7798.0,10406.0,2608.0,288.81,16.3
+mens_westernwear,jorkk,3,847.0,1443.0,596.0,282.33,40.67
+mens_westernwear,joven,4,2247.0,5096.0,2849.0,561.75,53.0
+mens_westernwear,jugular,7,2924.0,7749.0,4825.0,417.71,62.57
+mens_westernwear,jump cuts,2,528.0,1358.0,830.0,264.0,60.5
+mens_westernwear,katso,1,359.0,1298.0,939.0,359.0,72.0
+mens_westernwear,kay dee,3,793.0,2997.0,2204.0,264.33,72.33
+mens_westernwear,kay s apparels,1,189.0,899.0,710.0,189.0,78.0
+mens_westernwear,kit king,1,223.0,599.0,376.0,223.0,62.0
+mens_westernwear,lealdealz,1,199.0,545.0,346.0,199.0,63.0
+mens_westernwear,lee,1,629.0,899.0,270.0,629.0,30.0
+mens_westernwear,lewel,6,2674.0,11994.0,9320.0,445.67,77.5
+mens_westernwear,lifeidea,1,299.0,949.0,650.0,299.0,68.0
+mens_westernwear,london hills,2,1398.0,5197.0,3799.0,699.0,73.0
+mens_westernwear,louis philippe,1,1189.0,1699.0,510.0,1189.0,30.0
+mens_westernwear,louis philippe jeans,3,3362.0,4397.0,1035.0,1120.67,23.33
+mens_westernwear,maanja,2,384.0,798.0,414.0,192.0,51.5
+mens_westernwear,macho,2,780.0,815.0,35.0,390.0,5.5
+mens_westernwear,maniac,18,7370.0,19112.0,11742.0,409.44,61.11
+mens_westernwear,me stores,3,798.0,2097.0,1299.0,266.0,61.33
+mens_westernwear,metronaut,19,10446.0,21131.0,10685.0,549.79,49.95
+mens_westernwear,monument,1,598.0,1000.0,402.0,598.0,40.0
+mens_westernwear,moochsingh,1,299.0,999.0,700.0,299.0,70.0
+mens_westernwear,mountain colours,5,3926.0,10546.0,6620.0,785.2,62.0
+mens_westernwear,navy sport,4,1186.0,2196.0,1010.0,296.5,45.5
+mens_westernwear,nb nicky boy,4,1245.0,4400.0,3155.0,311.25,71.0
+mens_westernwear,nestos,1,399.0,750.0,351.0,399.0,46.0
+mens_westernwear,nevy,1,109.0,599.0,490.0,109.0,81.0
+mens_westernwear,ojass,2,1270.0,3998.0,2728.0,635.0,68.0
+mens_westernwear,peter england,3,2037.0,3397.0,1360.0,679.0,40.0
+mens_westernwear,peter england university,5,4545.0,6995.0,2450.0,909.0,35.0
+mens_westernwear,prahard,1,248.0,699.0,451.0,248.0,64.0
+mens_westernwear,protocol,1,549.0,1199.0,650.0,549.0,54.0
+mens_westernwear,puma,7,4405.0,7518.0,3113.0,629.29,47.86
+mens_westernwear,raax,1,199.0,399.0,200.0,199.0,50.0
+mens_westernwear,ranger,1,299.0,499.0,200.0,299.0,40.0
+mens_westernwear,rc. royal class,2,634.0,1349.0,715.0,317.0,53.0
+mens_westernwear,rebound,1,214.0,999.0,785.0,214.0,78.0
+mens_westernwear,red tape,1,599.0,2399.0,1800.0,599.0,75.0
+mens_westernwear,reebok,1,399.0,999.0,600.0,399.0,60.0
+mens_westernwear,rezalia,5,1545.0,5794.0,4249.0,309.0,72.6
+mens_westernwear,rg designers,1,999.0,1769.0,770.0,999.0,43.0
+mens_westernwear,road trip fashions,3,697.0,3197.0,2500.0,232.33,78.33
+mens_westernwear,rockhard,1,233.0,739.0,506.0,233.0,68.0
+mens_westernwear,roden,3,1258.0,4497.0,3239.0,419.33,71.67
+mens_westernwear,rope,2,967.0,2698.0,1731.0,483.5,64.0
+mens_westernwear,rupa,1,353.0,500.0,147.0,353.0,29.0
+mens_westernwear,scatchite,7,3111.0,11490.0,8379.0,444.43,72.14
+mens_westernwear,seven rocks,8,3082.0,10392.0,7310.0,385.25,69.88
+mens_westernwear,shivaay trading co.,2,288.0,798.0,510.0,144.0,60.5
+mens_westernwear,shopeleven,2,290.0,1598.0,1308.0,145.0,80.0
+mens_westernwear,sky world,1,169.0,399.0,230.0,169.0,57.0
+mens_westernwear,slim shine,1,225.0,599.0,374.0,225.0,62.0
+mens_westernwear,slimshine,2,475.0,1198.0,723.0,237.5,61.0
+mens_westernwear,smartees,10,3389.0,9990.0,6601.0,338.9,65.6
+mens_westernwear,soxco,1,379.0,699.0,320.0,379.0,45.0
+mens_westernwear,svello,2,538.0,2298.0,1760.0,269.0,76.0
+mens_westernwear,tap in,4,1074.0,4684.0,3610.0,268.5,71.75
+mens_westernwear,tees collection,1,449.0,1299.0,850.0,449.0,65.0
+mens_westernwear,tfurnish,3,1097.0,2997.0,1900.0,365.67,63.33
+mens_westernwear,the dry state,1,398.0,999.0,601.0,398.0,60.0
+mens_westernwear,the eg store,3,926.0,2397.0,1471.0,308.67,60.67
+mens_westernwear,tripr,33,13267.0,40967.0,27700.0,402.03,65.88
+mens_westernwear,true blue,1,959.0,2399.0,1440.0,959.0,60.0
+mens_westernwear,try this,18,6447.0,18282.0,11835.0,358.17,64.5
+mens_westernwear,u.s. polo assn,4,2642.0,3716.0,1074.0,660.5,25.0
+mens_westernwear,unisopent designs,2,798.0,1998.0,1200.0,399.0,60.0
+mens_westernwear,urbano fashion,3,2052.0,4397.0,2345.0,684.0,52.67
+mens_westernwear,uzee,4,1100.0,4996.0,3896.0,275.0,75.5
+mens_westernwear,v2 retail limited,1,199.0,399.0,200.0,199.0,50.0
+mens_westernwear,van heusen,11,6491.0,6501.0,10.0,590.09,0.0
+mens_westernwear,vectora,1,170.0,511.0,341.0,170.0,66.0
+mens_westernwear,vero lie,1,567.0,1888.0,1321.0,567.0,69.0
+mens_westernwear,vimal jonney,1,236.0,999.0,763.0,236.0,76.0
+mens_westernwear,vingaboy,1,307.0,999.0,692.0,307.0,69.0
+mens_westernwear,vrojass,1,616.0,1299.0,683.0,616.0,52.0
+mens_westernwear,wearza,2,863.0,2498.0,1635.0,431.5,66.0
+mens_westernwear,weft,2,742.0,2798.0,2056.0,371.0,73.5
+mens_westernwear,wexford,1,418.0,799.0,381.0,418.0,47.0
+mens_westernwear,wildcraft,2,1768.0,2798.0,1030.0,884.0,36.5
+mens_westernwear,wrangler 20x,1,1317.0,2395.0,1078.0,1317.0,45.0
+mens_westernwear,wrath,6,2184.0,8994.0,6810.0,364.0,75.5
+mens_westernwear,wyatt,1,322.0,1500.0,1178.0,322.0,78.0
+mens_westernwear,xtl,1,547.0,1999.0,1452.0,547.0,72.0
+mens_westernwear,yashinika,1,279.0,799.0,520.0,279.0,65.0
+mens_westernwear,yj fashion,2,605.0,1398.0,793.0,302.5,51.0
+mens_westernwear,young trendz,9,4043.0,11251.0,7208.0,449.22,63.67
+mens_westernwear,zacharias,1,349.0,999.0,650.0,349.0,65.0
+mens_westernwear,zaysh,1,699.0,1799.0,1100.0,699.0,61.0
+women_footwear,2odds,1,210.0,499.0,289.0,210.0,57.0
+women_footwear,92 miles,1,449.0,499.0,50.0,449.0,10.0
+women_footwear,a-ha by liberty,4,1596.0,1596.0,0.0,399.0,0.0
+women_footwear,aapni choice,1,299.0,499.0,200.0,299.0,40.0
+women_footwear,abisto,2,1133.0,2996.0,1863.0,566.5,61.5
+women_footwear,abj fashion,1,429.0,499.0,70.0,429.0,14.0
+women_footwear,action,3,2447.0,3297.0,850.0,815.67,22.67
+women_footwear,adda,11,4376.0,4576.0,200.0,397.82,3.0
+women_footwear,adidas,2,3763.0,5198.0,1435.0,1881.5,27.5
+women_footwear,adj,1,195.0,824.0,629.0,195.0,76.0
+women_footwear,airsoon,3,957.0,1497.0,540.0,319.0,36.0
+women_footwear,alkon,2,389.0,998.0,609.0,194.5,60.5
+women_footwear,amvonz,3,1147.0,2999.0,1852.0,382.33,61.67
+women_footwear,anshu enterprises,2,597.0,998.0,401.0,298.5,40.0
+women_footwear,aqualite,1,329.0,329.0,0.0,329.0,0.0
+women_footwear,aroom,2,769.0,1998.0,1229.0,384.5,61.0
+women_footwear,asian,20,9530.0,18078.0,8548.0,476.5,41.95
+women_footwear,asics,1,2799.0,3999.0,1200.0,2799.0,30.0
+women_footwear,aura,2,872.0,1996.0,1124.0,436.0,56.0
+women_footwear,axter,1,399.0,998.0,599.0,399.0,60.0
+women_footwear,azores,2,420.0,912.0,492.0,210.0,53.0
+women_footwear,bahamas,1,285.0,299.0,14.0,285.0,4.0
+women_footwear,bata,15,6658.0,7265.0,607.0,443.87,7.93
+women_footwear,bella toes,2,1047.0,1648.0,601.0,523.5,35.0
+women_footwear,beonza,6,2303.0,5494.0,3191.0,383.83,53.17
+women_footwear,birde,3,1823.0,4990.0,3167.0,607.67,56.67
+women_footwear,bk dream,9,2910.0,8091.0,5181.0,323.33,62.44
+women_footwear,blackstone,1,279.0,349.0,70.0,279.0,20.0
+women_footwear,blinder,3,1187.0,1797.0,610.0,395.67,27.67
+women_footwear,bootco,3,1138.0,2997.0,1859.0,379.33,61.33
+women_footwear,brandvilla,3,1047.0,2197.0,1150.0,349.0,51.0
+women_footwear,brauch,18,5916.0,8782.0,2866.0,328.67,29.89
+women_footwear,bright sayera,1,262.0,799.0,537.0,262.0,67.0
+women_footwear,butterflies steps,1,499.0,1499.0,1000.0,499.0,66.0
+women_footwear,camfoot,2,500.0,998.0,498.0,250.0,49.5
+women_footwear,campus,8,8536.0,9692.0,1156.0,1067.0,11.62
+women_footwear,carlton london,1,1374.0,2895.0,1521.0,1374.0,52.0
+women_footwear,cassiey,5,4075.0,5995.0,1920.0,815.0,28.6
+women_footwear,catbird,1,199.0,249.0,50.0,199.0,20.0
+women_footwear,claptrap,2,538.0,818.0,280.0,269.0,30.5
+women_footwear,clover,1,319.0,1299.0,980.0,319.0,75.0
+women_footwear,clymb,1,229.0,999.0,770.0,229.0,77.0
+women_footwear,code,1,799.0,799.0,0.0,799.0,0.0
+women_footwear,columbus,2,1158.0,1198.0,40.0,579.0,3.0
+women_footwear,commander,2,1198.0,1998.0,800.0,599.0,40.0
+women_footwear,creattoes,1,454.0,999.0,545.0,454.0,54.0
+women_footwear,crocs,7,13492.0,17965.0,4473.0,1927.43,23.71
+women_footwear,d-sneakerz,1,420.0,999.0,579.0,420.0,57.0
+women_footwear,dainty,1,378.0,999.0,621.0,378.0,62.0
+women_footwear,dashny,2,860.0,1896.0,1036.0,430.0,35.5
+women_footwear,denill,4,1873.0,3496.0,1623.0,468.25,42.0
+women_footwear,denimkey,1,389.0,919.0,530.0,389.0,57.0
+women_footwear,des tongs,1,349.0,849.0,500.0,349.0,58.0
+women_footwear,dicy,3,1420.0,4297.0,2877.0,473.33,66.33
+women_footwear,do bhai,3,1097.0,1497.0,400.0,365.67,26.67
+women_footwear,doctor extra soft,5,1749.0,3195.0,1446.0,349.8,43.8
+women_footwear,doctor soft,2,998.0,1998.0,1000.0,499.0,50.0
+women_footwear,dr. scholls,1,899.0,1799.0,900.0,899.0,50.0
+women_footwear,drunken,3,1568.0,2997.0,1429.0,522.67,47.33
+women_footwear,dymo,1,499.0,999.0,500.0,499.0,50.0
+women_footwear,earton,3,1841.0,3493.0,1652.0,613.67,40.0
+women_footwear,eila,3,989.0,1497.0,508.0,329.67,33.67
+women_footwear,emutz,1,390.0,999.0,609.0,390.0,60.0
+women_footwear,fa82,2,507.0,998.0,491.0,253.5,49.0
+women_footwear,fabbmate,2,678.0,1498.0,820.0,339.0,53.5
+women_footwear,fashionboom,1,275.0,299.0,24.0,275.0,8.0
+women_footwear,fath son,1,599.0,999.0,400.0,599.0,40.0
+women_footwear,feel it,2,1072.0,1998.0,926.0,536.0,46.0
+women_footwear,fila,1,1609.0,2299.0,690.0,1609.0,30.0
+women_footwear,fit o fit,1,261.0,499.0,238.0,261.0,47.0
+women_footwear,flipside,6,2454.0,2794.0,340.0,409.0,11.67
+women_footwear,flite,1,178.0,199.0,21.0,178.0,10.0
+women_footwear,footrendz,12,3621.0,8288.0,4667.0,301.75,53.58
+women_footwear,footsoul,8,3160.0,12892.0,9732.0,395.0,74.88
+women_footwear,footspring,1,175.0,499.0,324.0,175.0,64.0
+women_footwear,funnfeel,1,499.0,999.0,500.0,499.0,50.0
+women_footwear,gerief,1,219.0,499.0,280.0,219.0,56.0
+women_footwear,gibelle,2,800.0,1398.0,598.0,400.0,42.5
+women_footwear,gigantic,1,449.0,999.0,550.0,449.0,55.0
+women_footwear,ginger,5,4395.0,4395.0,0.0,879.0,0.0
+women_footwear,ginger by lifestyle,1,454.0,699.0,245.0,454.0,35.0
+women_footwear,glamgo,3,1086.0,2597.0,1511.0,362.0,57.33
+women_footwear,gliders by liberty,3,1347.0,1897.0,550.0,449.0,16.67
+women_footwear,global india,1,499.0,1599.0,1100.0,499.0,68.0
+women_footwear,hasten,4,2496.0,5396.0,2900.0,624.0,53.5
+women_footwear,hush puppies,1,759.0,799.0,40.0,759.0,5.0
+women_footwear,inone,1,199.0,199.0,0.0,199.0,0.0
+women_footwear,irsoe,8,4814.0,7792.0,2978.0,601.75,37.25
+women_footwear,jack n union,2,782.0,1787.0,1005.0,391.0,55.0
+women_footwear,jade,1,399.0,999.0,600.0,399.0,60.0
+women_footwear,jiansh,4,1672.0,3496.0,1824.0,418.0,50.5
+women_footwear,jynx,2,848.0,1998.0,1150.0,424.0,57.5
+women_footwear,kajmi,1,449.0,799.0,350.0,449.0,43.0
+women_footwear,kayoksh,2,398.0,498.0,100.0,199.0,20.0
+women_footwear,khadim's,3,2097.0,2097.0,0.0,699.0,0.0
+women_footwear,kom-opt,1,129.0,299.0,170.0,129.0,56.0
+women_footwear,komopt,3,557.0,897.0,340.0,185.67,33.33
+women_footwear,krafter,1,499.0,999.0,500.0,499.0,50.0
+women_footwear,lancer,1,499.0,499.0,0.0,499.0,0.0
+women_footwear,liberty,3,1117.0,1297.0,180.0,372.33,10.0
+women_footwear,longwalk,5,2248.0,4995.0,2747.0,449.6,54.6
+women_footwear,looksfootwear,3,1301.0,2997.0,1696.0,433.67,56.0
+women_footwear,lotto,2,736.0,1397.0,661.0,368.0,40.5
+women_footwear,m7 by metronaut,1,473.0,1499.0,1026.0,473.0,68.0
+women_footwear,moonwalk,3,847.0,2997.0,2150.0,282.33,71.67
+women_footwear,myra,3,1179.0,2697.0,1518.0,393.0,56.0
+women_footwear,myshtezia,1,398.0,999.0,601.0,398.0,60.0
+women_footwear,neoz,4,1876.0,2296.0,420.0,469.0,17.75
+women_footwear,nicholas,1,499.0,899.0,400.0,499.0,44.0
+women_footwear,nike,9,31929.0,44355.0,12426.0,3547.67,28.33
+women_footwear,north star,1,559.0,699.0,140.0,559.0,20.0
+women_footwear,oricum,1,472.0,998.0,526.0,472.0,52.0
+women_footwear,ozzy,2,256.0,278.0,22.0,128.0,7.0
+women_footwear,pahnava,1,264.0,299.0,35.0,264.0,11.0
+women_footwear,paragon,23,5308.0,5723.0,415.0,230.78,7.0
+women_footwear,people,2,1385.0,2498.0,1113.0,692.5,48.0
+women_footwear,pkkart,9,2339.0,4991.0,2652.0,259.89,52.44
+women_footwear,pm traders,1,449.0,999.0,550.0,449.0,55.0
+women_footwear,power,2,1847.0,2998.0,1151.0,923.5,38.0
+women_footwear,puma,21,33257.0,56679.0,23422.0,1583.67,37.0
+women_footwear,radeon,1,508.0,699.0,191.0,508.0,27.0
+women_footwear,rankone,1,329.0,899.0,570.0,329.0,63.0
+women_footwear,ravis,2,540.0,1398.0,858.0,270.0,60.5
+women_footwear,red tape,2,3356.0,11190.0,7834.0,1678.0,70.0
+women_footwear,reebok,1,2099.0,2999.0,900.0,2099.0,30.0
+women_footwear,reebok classics,1,2999.0,3999.0,1000.0,2999.0,25.0
+women_footwear,refoam,2,898.0,1798.0,900.0,449.0,50.0
+women_footwear,reforce,1,206.0,999.0,793.0,206.0,79.0
+women_footwear,rgk's,1,439.0,999.0,560.0,439.0,56.0
+women_footwear,rindas,1,499.0,999.0,500.0,499.0,50.0
+women_footwear,robbox,1,399.0,999.0,600.0,399.0,60.0
+women_footwear,roclex,1,599.0,999.0,400.0,599.0,40.0
+women_footwear,royalex,1,325.0,499.0,174.0,325.0,34.0
+women_footwear,rsdk,1,499.0,999.0,500.0,499.0,50.0
+women_footwear,ryag,3,1299.0,2997.0,1698.0,433.0,56.0
+women_footwear,sainex,2,598.0,1598.0,1000.0,299.0,62.0
+women_footwear,sapatos,1,299.0,499.0,200.0,299.0,40.0
+women_footwear,sayera,1,244.0,599.0,355.0,244.0,59.0
+women_footwear,shences,1,599.0,2999.0,2400.0,599.0,80.0
+women_footwear,shezone,7,3993.0,6095.0,2102.0,570.43,31.14
+women_footwear,shoe lab,1,299.0,499.0,200.0,299.0,40.0
+women_footwear,shoefly,6,4051.0,8483.0,4432.0,675.17,51.0
+women_footwear,shoetopia,4,1666.0,2496.0,830.0,416.5,34.5
+women_footwear,shofiee,4,1483.0,2396.0,913.0,370.75,37.75
+women_footwear,shooting star,1,320.0,998.0,678.0,320.0,67.0
+women_footwear,shopiee,1,399.0,699.0,300.0,399.0,42.0
+women_footwear,shozie,1,499.0,999.0,500.0,499.0,50.0
+women_footwear,skechers,7,28368.0,38993.0,10625.0,4052.57,27.14
+women_footwear,skoll,2,1048.0,2298.0,1250.0,524.0,48.5
+women_footwear,skylarker,1,238.0,799.0,561.0,238.0,70.0
+women_footwear,sparx,37,23248.0,27890.0,4642.0,628.32,15.27
+women_footwear,sprintx,1,399.0,849.0,450.0,399.0,53.0
+women_footwear,stellar collections,2,279.0,1535.0,1256.0,139.5,81.0
+women_footwear,stepee,2,894.0,1298.0,404.0,447.0,26.5
+women_footwear,sukun,1,494.0,999.0,505.0,494.0,50.0
+women_footwear,super matteress,1,472.0,998.0,526.0,472.0,52.0
+women_footwear,svaar,1,189.0,399.0,210.0,189.0,52.0
+women_footwear,swiggy,1,398.0,998.0,600.0,398.0,60.0
+women_footwear,technofit,1,599.0,999.0,400.0,599.0,40.0
+women_footwear,time and tru by walmart,1,752.0,2499.0,1747.0,752.0,69.0
+women_footwear,totu,5,3244.0,5395.0,2151.0,648.8,39.6
+women_footwear,trase,8,3617.0,6792.0,3175.0,452.12,47.38
+women_footwear,trv,1,269.0,299.0,30.0,269.0,10.0
+women_footwear,twin toes,1,389.0,999.0,610.0,389.0,61.0
+women_footwear,v2 retail limited,3,1247.0,2597.0,1350.0,415.67,51.33
+women_footwear,vendoz,1,449.0,999.0,550.0,449.0,55.0
+women_footwear,walk.com,2,629.0,1548.0,919.0,314.5,58.5
+women_footwear,welcome,7,2123.0,3363.0,1240.0,303.29,33.29
+women_footwear,world wear footwear,1,347.0,998.0,651.0,347.0,65.0
+women_footwear,xe looks,1,499.0,999.0,500.0,499.0,50.0
+women_footwear,yanshu,2,599.0,1998.0,1399.0,299.5,69.5
+women_footwear,yuuki,1,799.0,2499.0,1700.0,799.0,68.0
+women_footwear,zappy,1,399.0,799.0,400.0,399.0,50.0
+women_footwear,ziaula,1,399.0,999.0,600.0,399.0,60.0
+women_footwear,ziraat,5,2325.0,4995.0,2670.0,465.0,53.4
+women_footwear,zyma,1,709.0,999.0,290.0,709.0,29.0
+women_westernwear,2 day,2,898.0,1798.0,900.0,449.0,50.0
+women_westernwear,6th avenue streetwear,1,599.0,1999.0,1400.0,599.0,70.0
+women_westernwear,a-okay,8,4432.0,18300.0,13868.0,554.0,75.5
+women_westernwear,a9,5,3009.0,6589.0,3580.0,601.8,52.2
+women_westernwear,aaj collection,2,898.0,2798.0,1900.0,449.0,66.5
+women_westernwear,aakrithi,3,1181.0,3747.0,2566.0,393.67,63.0
+women_westernwear,aania,1,399.0,1199.0,800.0,399.0,66.0
+women_westernwear,aasi - house of nayo,1,384.0,699.0,315.0,384.0,45.0
+women_westernwear,aawari,9,3690.0,8542.0,4852.0,410.0,55.78
+women_westernwear,aayu,4,2336.0,3996.0,1660.0,584.0,40.25
+women_westernwear,absorbing,2,1098.0,2998.0,1900.0,549.0,62.5
+women_westernwear,addyvero,2,996.0,3398.0,2402.0,498.0,70.0
+women_westernwear,adiba,1,469.0,1499.0,1030.0,469.0,68.0
+women_westernwear,aelomart,5,2095.0,7995.0,5900.0,419.0,73.4
+women_westernwear,affair,1,426.0,999.0,573.0,426.0,57.0
+women_westernwear,ag fashion,3,1147.0,3497.0,2350.0,382.33,67.67
+women_westernwear,ag fashions,2,849.0,1998.0,1149.0,424.5,57.0
+women_westernwear,aj fashions,1,258.0,999.0,741.0,258.0,74.0
+women_westernwear,aks,1,1149.0,2499.0,1350.0,1149.0,54.0
+women_westernwear,alfa fashion,1,399.0,1299.0,900.0,399.0,69.0
+women_westernwear,amadore,1,379.0,999.0,620.0,379.0,62.0
+women_westernwear,anuttara fashions,1,290.0,999.0,709.0,290.0,70.0
+women_westernwear,ap'pulse,6,3043.0,8588.0,5545.0,507.17,63.67
+women_westernwear,archi enterprise,4,2016.0,5996.0,3980.0,504.0,66.0
+women_westernwear,asean,2,1198.0,3998.0,2800.0,599.0,70.0
+women_westernwear,attire4ever,1,380.0,999.0,619.0,380.0,61.0
+women_westernwear,base 41,10,2920.0,9990.0,7070.0,292.0,70.7
+women_westernwear,bestic fashion,2,584.0,2000.0,1416.0,292.0,70.0
+women_westernwear,black killer,2,748.0,1998.0,1250.0,374.0,62.5
+women_westernwear,blancora,2,798.0,2598.0,1800.0,399.0,69.0
+women_westernwear,blezza,1,366.0,999.0,633.0,366.0,63.0
+women_westernwear,bosque,1,359.0,999.0,640.0,359.0,64.0
+women_westernwear,broadstar,6,3894.0,10994.0,7100.0,649.0,64.17
+women_westernwear,buynewtrend,16,7448.0,23684.0,16236.0,465.5,67.94
+women_westernwear,bxa,1,290.0,799.0,509.0,290.0,63.0
+women_westernwear,cation,1,499.0,1199.0,700.0,499.0,58.0
+women_westernwear,clothvilla,1,404.0,1599.0,1195.0,404.0,74.0
+women_westernwear,cobio man,1,343.0,1599.0,1256.0,343.0,78.0
+women_westernwear,couplestuff.in,1,299.0,999.0,700.0,299.0,70.0
+women_westernwear,craftly,2,519.0,2198.0,1679.0,259.5,76.0
+women_westernwear,crazevilla,1,930.0,1870.0,940.0,930.0,50.0
+women_westernwear,crazyink,1,299.0,999.0,700.0,299.0,70.0
+women_westernwear,crease & clips,3,1747.0,5568.0,3821.0,582.33,65.33
+women_westernwear,curare,2,1098.0,1998.0,900.0,549.0,45.0
+women_westernwear,daevish,1,499.0,1199.0,700.0,499.0,58.0
+women_westernwear,darzi,7,2692.0,8993.0,6301.0,384.57,69.29
+women_westernwear,deckedup,1,230.0,899.0,669.0,230.0,74.0
+women_westernwear,deewa,1,337.0,999.0,662.0,337.0,66.0
+women_westernwear,delmy,4,2931.0,6296.0,3365.0,732.75,53.25
+women_westernwear,denizen from levis,1,377.0,499.0,122.0,377.0,24.0
+women_westernwear,dev fashion,1,449.0,1299.0,850.0,449.0,65.0
+women_westernwear,dillinger,7,2143.0,7793.0,5650.0,306.14,72.14
+women_westernwear,dmp fashion,1,299.0,999.0,700.0,299.0,70.0
+women_westernwear,donatella,1,399.0,1000.0,601.0,399.0,60.0
+women_westernwear,dream beauty fashion,1,398.0,999.0,601.0,398.0,60.0
+women_westernwear,dreambe,2,771.0,2748.0,1977.0,385.5,71.5
+women_westernwear,dsk studio,2,698.0,2598.0,1900.0,349.0,73.0
+women_westernwear,duenite,3,1039.0,3473.0,2434.0,346.33,68.33
+women_westernwear,eazy trendz,1,289.0,999.0,710.0,289.0,71.0
+women_westernwear,edge plus,1,395.0,1300.0,905.0,395.0,69.0
+women_westernwear,editlook,2,1258.0,3248.0,1990.0,629.0,61.0
+women_westernwear,elepants,6,1696.0,6794.0,5098.0,282.67,74.67
+women_westernwear,emeros,5,2315.0,6445.0,4130.0,463.0,63.8
+women_westernwear,envy 9,1,269.0,999.0,730.0,269.0,73.0
+women_westernwear,espresso,1,849.0,1497.0,648.0,849.0,43.0
+women_westernwear,fab star,1,299.0,1499.0,1200.0,299.0,80.0
+women_westernwear,fabstone collection,2,592.0,1248.0,656.0,296.0,52.0
+women_westernwear,famiss fashion,1,399.0,999.0,600.0,399.0,60.0
+women_westernwear,febia,3,1017.0,2497.0,1480.0,339.0,58.33
+women_westernwear,fleximaa,18,7166.0,15732.0,8566.0,398.11,50.17
+women_westernwear,flying machine,6,4434.0,9494.0,5060.0,739.0,52.67
+women_westernwear,fnocks,1,841.0,3999.0,3158.0,841.0,78.0
+women_westernwear,frionkandy,2,843.0,2298.0,1455.0,421.5,63.0
+women_westernwear,funday fashion,3,1393.0,4597.0,3204.0,464.33,69.33
+women_westernwear,g & m collections,2,978.0,1898.0,920.0,489.0,48.5
+women_westernwear,glance designs,1,399.0,1299.0,900.0,399.0,69.0
+women_westernwear,gmi,4,1294.0,4093.0,2799.0,323.5,68.25
+women_westernwear,god bless,5,2495.0,6395.0,3900.0,499.0,60.4
+women_westernwear,goodwill,1,449.0,1200.0,751.0,449.0,62.0
+women_westernwear,greenwich,1,499.0,649.0,150.0,499.0,23.0
+women_westernwear,gritstones,4,1296.0,4896.0,3600.0,324.0,72.0
+women_westernwear,gsa mall,1,648.0,1499.0,851.0,648.0,56.0
+women_westernwear,gujari,4,2296.0,4396.0,2100.0,574.0,47.25
+women_westernwear,hardys,1,249.0,1299.0,1050.0,249.0,80.0
+women_westernwear,harpa,2,1483.0,3298.0,1815.0,741.5,55.0
+women_westernwear,herway,1,599.0,1399.0,800.0,599.0,57.0
+women_westernwear,hetvi creation,2,1089.0,3198.0,2109.0,544.5,65.5
+women_westernwear,himgiri international,1,399.0,1199.0,800.0,399.0,66.0
+women_westernwear,hinayat fashion,1,349.0,1300.0,951.0,349.0,73.0
+women_westernwear,honey by pantaloons,1,597.0,747.0,150.0,597.0,20.0
+women_westernwear,hotfits,1,499.0,998.0,499.0,499.0,50.0
+women_westernwear,icable,1,655.0,999.0,344.0,655.0,34.0
+women_westernwear,illi london,3,1897.0,4897.0,3000.0,632.33,60.67
+women_westernwear,indibelle,1,501.0,1249.0,748.0,501.0,59.0
+women_westernwear,ink free fashion,1,279.0,1199.0,920.0,279.0,76.0
+women_westernwear,iqra fashion,4,1896.0,3396.0,1500.0,474.0,41.5
+women_westernwear,istyle can,1,449.0,1499.0,1050.0,449.0,70.0
+women_westernwear,j b fashion,2,927.0,2598.0,1671.0,463.5,64.0
+women_westernwear,jaipur kurti,4,2236.0,5546.0,3310.0,559.0,58.25
+women_westernwear,jaipur vastra,1,299.0,999.0,700.0,299.0,70.0
+women_westernwear,jaipuri,1,379.0,1099.0,720.0,379.0,65.0
+women_westernwear,jaipuri attire,1,449.0,999.0,550.0,449.0,55.0
+women_westernwear,jockey,5,1150.0,1290.0,140.0,230.0,10.4
+women_westernwear,kannan,4,1864.0,5096.0,3232.0,466.0,62.5
+women_westernwear,kd,2,398.0,2195.0,1797.0,199.0,81.0
+women_westernwear,kotty,2,1005.0,2898.0,1893.0,502.5,66.5
+women_westernwear,krapal,1,199.0,899.0,700.0,199.0,77.0
+women_westernwear,kurti world,3,780.0,2997.0,2217.0,260.0,73.0
+women_westernwear,lady stark,1,798.0,2799.0,2001.0,798.0,71.0
+women_westernwear,laya,1,404.0,849.0,445.0,404.0,52.0
+women_westernwear,le bourgeois,2,598.0,1998.0,1400.0,299.0,70.0
+women_westernwear,lee,4,2429.0,4796.0,2367.0,607.25,45.75
+women_westernwear,levi's,10,11782.0,19090.0,7308.0,1178.2,36.3
+women_westernwear,lime,1,299.0,1499.0,1200.0,299.0,80.0
+women_westernwear,limeswood creation,1,598.0,1599.0,1001.0,598.0,62.0
+women_westernwear,lnk,1,389.0,999.0,610.0,389.0,61.0
+women_westernwear,lorofy,1,499.0,1999.0,1500.0,499.0,75.0
+women_westernwear,lyra,1,450.0,450.0,0.0,450.0,0.0
+women_westernwear,me craft,1,699.0,999.0,300.0,699.0,30.0
+women_westernwear,meet nex,1,299.0,599.0,300.0,299.0,50.0
+women_westernwear,metro fashion,4,2264.0,7216.0,4952.0,566.0,68.25
+women_westernwear,metronaut,7,2876.0,8303.0,5427.0,410.86,65.14
+women_westernwear,milost,3,1347.0,3997.0,2650.0,449.0,65.0
+women_westernwear,miss chase,3,2155.0,4847.0,2692.0,718.33,51.33
+women_westernwear,modern kart,1,339.0,1099.0,760.0,339.0,69.0
+women_westernwear,montrez,6,2544.0,9994.0,7450.0,424.0,73.67
+women_westernwear,montu,1,399.0,999.0,600.0,399.0,60.0
+women_westernwear,my swag,2,809.0,2086.0,1277.0,404.5,61.0
+women_westernwear,neha,1,355.0,1249.0,894.0,355.0,71.0
+women_westernwear,neu look,8,3542.0,11392.0,7850.0,442.75,68.5
+women_westernwear,new ethnic 4 you,6,1869.0,7794.0,5925.0,311.5,75.33
+women_westernwear,neysa,4,1816.0,3496.0,1680.0,454.0,47.5
+women_westernwear,nifty,7,4861.0,11393.0,6532.0,694.43,57.14
+women_westernwear,nitvan,1,404.0,1199.0,795.0,404.0,66.0
+women_westernwear,only,1,314.0,699.0,385.0,314.0,55.0
+women_westernwear,oomph!,4,1396.0,5990.0,4594.0,349.0,76.5
+women_westernwear,parilon,1,787.0,1899.0,1112.0,787.0,58.0
+women_westernwear,pdpm,6,1894.0,3664.0,1770.0,315.67,44.33
+women_westernwear,people,2,718.0,1098.0,380.0,359.0,23.5
+women_westernwear,pepe jeans,6,5342.0,9594.0,4252.0,890.33,44.33
+women_westernwear,peplum,1,648.0,2499.0,1851.0,648.0,74.0
+women_westernwear,pixie,1,774.0,2394.0,1620.0,774.0,67.0
+women_westernwear,pluss,1,560.0,1589.0,1029.0,560.0,64.0
+women_westernwear,popwings,4,1976.0,5196.0,3220.0,494.0,61.0
+women_westernwear,pratyusha,1,299.0,1099.0,800.0,299.0,72.0
+women_westernwear,puma,7,5855.0,11793.0,5938.0,836.43,47.71
+women_westernwear,purple feather,1,399.0,999.0,600.0,399.0,60.0
+women_westernwear,purvaja,3,1146.0,4397.0,3251.0,382.0,71.33
+women_westernwear,purvi,1,369.0,1999.0,1630.0,369.0,81.0
+women_westernwear,q-rious,5,2767.0,7692.0,4925.0,553.4,62.6
+women_westernwear,rangun,3,1063.0,2997.0,1934.0,354.33,64.33
+women_westernwear,rare,2,958.0,1998.0,1040.0,479.0,52.0
+women_westernwear,rebound,5,955.0,4995.0,4040.0,191.0,80.8
+women_westernwear,reifica,9,3864.0,9591.0,5727.0,429.33,59.78
+women_westernwear,rg,4,1196.0,3896.0,2700.0,299.0,69.0
+women_westernwear,rigo,1,566.0,1199.0,633.0,566.0,52.0
+women_westernwear,rmg fashion,1,275.0,999.0,724.0,275.0,72.0
+women_westernwear,roadster,2,1533.0,3198.0,1665.0,766.5,52.5
+women_westernwear,rudraaksha,2,808.0,3898.0,3090.0,404.0,79.0
+women_westernwear,sahiba impex,1,499.0,999.0,500.0,499.0,50.0
+women_westernwear,sassafras,1,773.0,1799.0,1026.0,773.0,57.0
+women_westernwear,selvia,8,3482.0,12369.0,8887.0,435.25,71.62
+women_westernwear,serein,3,1390.0,5997.0,4607.0,463.33,76.67
+women_westernwear,sharktribe,3,1177.0,3197.0,2020.0,392.33,62.33
+women_westernwear,sheetal associates,8,3937.0,7992.0,4055.0,492.12,50.62
+women_westernwear,shinoy,4,1996.0,3996.0,2000.0,499.0,50.0
+women_westernwear,shivam creation,1,499.0,1299.0,800.0,499.0,61.0
+women_westernwear,silkova,4,1376.0,5996.0,4620.0,344.0,74.25
+women_westernwear,skyline trading,1,275.0,999.0,724.0,275.0,72.0
+women_westernwear,slenor,2,1674.0,5498.0,3824.0,837.0,69.0
+women_westernwear,so sweety,1,649.0,1299.0,650.0,649.0,50.0
+women_westernwear,spykar,1,1126.0,2499.0,1373.0,1126.0,54.0
+women_westernwear,style hive,1,509.0,999.0,490.0,509.0,49.0
+women_westernwear,stylum fab,1,249.0,999.0,750.0,249.0,75.0
+women_westernwear,tandul,2,748.0,3198.0,2450.0,374.0,77.0
+women_westernwear,tap in,2,598.0,2590.0,1992.0,299.0,76.0
+women_westernwear,tap-in,2,690.0,2390.0,1700.0,345.0,71.0
+women_westernwear,texco,1,569.0,1299.0,730.0,569.0,56.0
+women_westernwear,the dry state,6,2545.0,6994.0,4449.0,424.17,62.17
+women_westernwear,tokyo talkies,3,2654.0,6597.0,3943.0,884.67,57.67
+women_westernwear,tyffyn,1,415.0,2499.0,2084.0,415.0,83.0
+women_westernwear,u&f,2,848.0,3398.0,2550.0,424.0,75.0
+women_westernwear,unfakenow,1,314.0,1199.0,885.0,314.0,73.0
+women_westernwear,unique choice,2,766.0,1998.0,1232.0,383.0,61.0
+women_westernwear,upperkutt,3,1125.0,4497.0,3372.0,375.0,72.33
+women_westernwear,uptownie lite,1,751.0,1699.0,948.0,751.0,55.0
+women_westernwear,v2 retail limited,4,1286.0,2696.0,1410.0,321.5,52.0
+women_westernwear,vaanya,6,2134.0,6894.0,4760.0,355.67,67.67
+women_westernwear,van heusen,1,882.0,1799.0,917.0,882.0,50.0
+women_westernwear,veni vidi vici,1,526.0,1170.0,644.0,526.0,55.0
+women_westernwear,venisa,2,898.0,2798.0,1900.0,449.0,67.0
+women_westernwear,veshbhusha,1,235.0,999.0,764.0,235.0,76.0
+women_westernwear,viral trend,3,777.0,2997.0,2220.0,259.0,74.0
+women_westernwear,vivinks,8,2042.0,8592.0,6550.0,255.25,76.25
+women_westernwear,vogue nation,1,445.0,899.0,454.0,445.0,50.0
+women_westernwear,vskin,2,998.0,2298.0,1300.0,499.0,55.5
+women_westernwear,vtv,3,1405.0,7197.0,5792.0,468.33,79.33
+women_westernwear,weft,1,277.0,949.0,672.0,277.0,70.0
+women_westernwear,westturn,1,629.0,2199.0,1570.0,629.0,71.0
+women_westernwear,wilfredo,2,738.0,2698.0,1960.0,369.0,72.0
+women_westernwear,wrangler,1,545.0,895.0,350.0,545.0,39.0
+women_westernwear,wrath,3,887.0,4497.0,3610.0,295.67,80.0
+women_westernwear,yes'no,2,378.0,1998.0,1620.0,189.0,81.0
+women_westernwear,young trendz,10,5630.0,14790.0,9160.0,563.0,61.6
+women_westernwear,zima leto,1,779.0,1299.0,520.0,779.0,40.0
+women_westernwear,ziva fashion,1,539.0,999.0,460.0,539.0,46.0
